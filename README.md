@@ -10,7 +10,7 @@ I build data-driven tools and platforms focused on market microstructure, Altern
 
 - **Sapinover Platform** — A multi-site market intelligence content engine with social automation, built with TypeScript
 - **Overnight ATS Dashboard** — Interactive research dashboard analyzing overnight equity trading across 79 trading days and $194B+ notional volume
-- **CalcGuard** — A financial technology web application deployed on Vercel, built with TypeScript and React
+- **[CalcGuard](https://calc-guard-website.vercel.app)** — A financial technology web application deployed on Vercel, built with TypeScript and React
 
 ### Areas of Focus
 
@@ -24,7 +24,7 @@ I build data-driven tools and platforms focused on market microstructure, Altern
 | Project | Description |
 |---------|-------------|
 | [sapinover-overnight-dashboard](https://github.com/ejcacciatore/sapinover-overnight-dashboard) | Overnight ATS Market Microstructure Dashboard — 60,955 observations across 79 trading days |
-| [CalcGuard-Website](https://github.com/ejcacciatore/CalcGuard-Website) | Financial technology web application built with TypeScript and React |
+| [CalcGuard](https://calc-guard-website.vercel.app) | Financial technology web application built with TypeScript and React |
 | [venue-type-database](https://github.com/ejcacciatore/venue-type-database) | Comprehensive database of US equity trading venues with interactive interface |
 | [sapinover-overnight-alpha](https://github.com/ejcacciatore/sapinover-overnight-alpha) | Comprehensive US equity trading venue database with interactive interface |
 | [ats-report-2025](https://github.com/ejcacciatore/ats-report-2025) | Alternative Trading Systems: 2025 Report — TabbFORUM publication |
