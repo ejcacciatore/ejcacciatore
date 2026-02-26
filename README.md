@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Enrico Cacciatore
 
-<!--
-**ejcacciatore/ejcacciatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder of [Sapinover](https://github.com/ejcacciatore) | Market Microstructure Research & Financial Technology**
 
-Here are some ideas to get you started:
+I build data-driven tools and platforms focused on market microstructure, Alternative Trading Systems (ATS), and overnight equity markets. My work sits at the intersection of financial data analysis, interactive visualization, and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm Working On
+
+- **Sapinover Platform** — A multi-site market intelligence content engine with social automation, built with TypeScript
+- **Overnight ATS Dashboard** — Interactive research dashboard analyzing overnight equity trading across 79 trading days and $194B+ notional volume
+- **CalcGuard** — A financial technology web application deployed on Vercel, built with TypeScript and React
+
+### Areas of Focus
+
+- US equity market microstructure and ATS venue analysis
+- Overnight and off-hours trading data research
+- Interactive data visualization and dashboards
+- Full-stack web development (TypeScript, React, Next.js, Python)
+
+### Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [sapinover-overnight-dashboard](https://github.com/ejcacciatore/sapinover-overnight-dashboard) | Overnight ATS Market Microstructure Dashboard — 60,955 observations across 79 trading days |
+| [CalcGuard-Website](https://github.com/ejcacciatore/CalcGuard-Website) | Financial technology web application built with TypeScript and React |
+| [venue-type-database](https://github.com/ejcacciatore/venue-type-database) | Comprehensive database of US equity trading venues with interactive interface |
+| [sapinover-overnight-alpha](https://github.com/ejcacciatore/sapinover-overnight-alpha) | Comprehensive US equity trading venue database with interactive interface |
+| [ats-report-2025](https://github.com/ejcacciatore/ats-report-2025) | Alternative Trading Systems: 2025 Report — TabbFORUM publication |
+
+### Tech Stack
+
+`TypeScript` `JavaScript` `Python` `React` `Next.js` `HTML/CSS` `Node.js`
+
+---
+
+*Interested in market microstructure, ATS data, or fintech collaboration? Feel free to reach out.*
